@@ -54,7 +54,7 @@ git commit -a -m 'adding submodule'
 You'll need to push your branch to the remote.
 
 ```bash
-git push
+git commit -a -m 'adding submodule'
 ```
 From the github web interface for this assignment's repository you'll create a new pull request.
 
