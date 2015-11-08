@@ -24,11 +24,11 @@ Create a Code Poem in any progamming language: C, Python, LISP, Go, Pure Data, V
 3. It must run, which implies that it may need to compile, further implying instructions may be necessary
 
 #### 3. Turning In
-First is to make your own repository of files and sync it to github. 
+First is to make your own repository of your project and sync it to github. 
 
 Then, Clone this assignment directory to your computer. From within the folder of the clone, use the terminal. 
 
-Move into the directory where this assignment repository was cloned. Make a branch, replace _your-branch-name_ with something unique, rcsid, etc.
+Make a branch, replace _your-branch-name_ with something unique, rcsid, etc.
 
 ```bash
 git branch your-branch-name
@@ -54,7 +54,15 @@ git commit -a -m 'adding submodule'
 You'll need to push your branch to the remote.
 
 ```bash
-git commit -a -m 'adding submodule'
+git push origin your-branch-name
+```
+You may run up against a GIT 2.0 error. 
+http://stackoverflow.com/questions/13148066/warning-push-default-is-unset-its-implicit-value-is-changing-in-git-2-0
+
+Do the simple solution
+
+```bash
+git config --global push.default simple
 ```
 From the github web interface for this assignment's repository you'll create a new pull request.
 
