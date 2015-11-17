@@ -4,3 +4,21 @@
 [submodule "espinm3"]
 	path = espinm3
 	url = https://github.com/MarinaEspinoza/ACI_Project3.git
+[submodule "ariellee"]
+	path = ariellee
+	url = https://github.com/leea10/circle_named_Fred.git
+[submodule "zaran"]
+	path = zaran
+	url = https://github.com/zlalvani/cosmotronic.git
+[submodule "codepoetry"]
+	path = codepoetry
+	url = https://github.com/rasmul2/codepoetry
+[submodule "john"]
+	path = john
+	url = https://github.com/jbcon/Code_Poetry_03
+[submodule "hul6"]
+	path = hul6
+	url = https://github.com/Kirstihly/ACI_4.git
+[submodule "mattvogel"]
+	path = mattvogel
+	url = https://github.com/8bitgentleman/Assignment_4_Code_Poetry.git
