@@ -1,6 +1,9 @@
 [submodule "kelly"]
 	path = kelly
 	url = https://github.com/kmichaelfox/code_poetry_sc140
+[submodule "andrewf"]
+	path = andrewf
+	url = https://github.com/faulda/code-poetry.git
 [submodule "espinm3"]
 	path = espinm3
 	url = https://github.com/MarinaEspinoza/ACI_Project3.git
