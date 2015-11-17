@@ -1,0 +1,3 @@
+[submodule "kelly"]
+	path = kelly
+	url = https://github.com/kmichaelfox/code_poetry_sc140
