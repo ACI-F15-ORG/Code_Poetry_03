@@ -1,6 +1,9 @@
 [submodule "kelly"]
 	path = kelly
 	url = https://github.com/kmichaelfox/code_poetry_sc140
+[submodule "john"]
+	path = john
+	url = https://github.com/jbcon/Code_Poetry_03
 [submodule "hul6"]
 	path = hul6
 	url = https://github.com/Kirstihly/ACI_4.git
