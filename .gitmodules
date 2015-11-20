@@ -31,3 +31,9 @@
 [submodule "mattvogel"]
 	path = mattvogel
 	url = https://github.com/8bitgentleman/Assignment_4_Code_Poetry.git
+[submodule "andrewCage"]
+	path = andrewCage
+	url = https://github.com/unonu/codePoetry
+[submodule "KMcDemott"]
+	path = KMcDemott
+	url = https://github.com/mcderk3/KMcDemott.git
