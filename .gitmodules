@@ -37,3 +37,6 @@
 [submodule "KMcDemott"]
 	path = KMcDemott
 	url = https://github.com/mcderk3/KMcDemott.git
+[submodule "daviddominguez"]
+	path = daviddominguez
+	url = https://github.com/davidrpi/codePoetry
