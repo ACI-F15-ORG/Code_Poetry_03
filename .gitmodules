@@ -40,3 +40,6 @@
 [submodule "daviddominguez"]
 	path = daviddominguez
 	url = https://github.com/davidrpi/codePoetry
+[submodule "dillonBurns"]
+	path = dillonBurns
+	url = https://github.com/dillonburns/CodePoetryDillonB.git
