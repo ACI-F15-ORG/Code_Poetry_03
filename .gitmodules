@@ -46,3 +46,6 @@
 [submodule "dillonBurns"]
 	path = dillonBurns
 	url = https://github.com/dillonburns/CodePoetryDillonB.git
+[submodule "griffb2"]
+	path = griffb2
+	url = https://github.com/griffb2/Poem.git
